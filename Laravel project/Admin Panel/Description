@@ -1,0 +1,4 @@
+It's a laravel project using php framework laravel,Mysql database.
+Here is one super admin who control others local admin.
+super admin can add local admin and everything.
+The local admin can collect money from the shopkeepers.
