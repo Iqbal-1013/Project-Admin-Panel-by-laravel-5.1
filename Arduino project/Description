@@ -1,0 +1,1 @@
+Here is an automated system which will detect the water level of a tank by sonar sensor and arduino. If the amount of water remain below a specific level then motor will automatically ON and the amount of water raise above a specific level then motor will automatically OFF .
